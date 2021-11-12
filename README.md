@@ -1,6 +1,6 @@
 # Fabrica-de-Projetos-II
-TESTE DE THIAGO MARCOS
-Fabrica II DRIM TIN
+
+Fabrica II Equipe DRIN TIN
 
 • Título;
 	Arkanian
@@ -26,7 +26,7 @@ Jogo topdown shooter, com magias
   
   
 • Sistema operacional ou plataforma em que o jogo funcionará e será publicado;
-	Windows PC / browser.
+	Windows PC / browser. Pode ser adaptado para mobile
   
   
 • O público alvo a ser alcançado e sua classificação indicativa permitida;
